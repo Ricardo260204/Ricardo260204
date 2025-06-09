@@ -1,0 +1,1 @@
+Repositório com dicionário de variáveis e descrição dos indicadores educacionais desenvolvidos na matéria "Prática Estatística", por meio do censo escolar. A ideia principal é estudar a educação do município com indicadores claros.
